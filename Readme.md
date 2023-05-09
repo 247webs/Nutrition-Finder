@@ -2,9 +2,9 @@
 
 ## Used Technologies
 
-- Backend: Symfony 6
-- Frontend: Vue.js
-- Environment: Docker
+- `Backend`: Symfony 6
+- `Frontend`: Vue.js
+- `Environment`: Docker
 
 ## Container details:
 
