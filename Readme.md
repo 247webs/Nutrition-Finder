@@ -2,9 +2,9 @@
 
 ## Used Technologies
 
-- For the backend, I'm using Symfony 6.
-- For frontend, I'm using Vue.js.
-- Docker to make consistent environment for development and setup.
+- Backend: Symfony 6
+- Frontend: Vue.js
+- Environment: Docker
 
 ## Container details:
 
